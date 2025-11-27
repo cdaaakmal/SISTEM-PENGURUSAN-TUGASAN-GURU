@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Pengurusan Tugasan Guru (SPTG)",
+  "description": "Sistem web untuk mengurus dan menyemak tugasan guru berdasarkan tahun. Dilengkapi dengan bantuan AI untuk menjana deskripsi tugasan.",
+  "requestFramePermissions": []
+}
